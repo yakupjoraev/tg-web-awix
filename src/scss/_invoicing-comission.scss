@@ -13,4 +13,10 @@
   font-size: 20px;
   font-weight: 600;
   line-height: 120%;
+
+  img {
+    width: auto;
+    min-width: 0;
+    height: auto;
+  }
 }
